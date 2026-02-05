@@ -1,1 +1,1 @@
-print('Hello world from nn.js!');
+print('Hello world!');
